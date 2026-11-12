@@ -1,8 +1,8 @@
-# Channel Constitution
+# দাবি ও দলিল (Dabi o Dolil): Channel Constitution
 
 Version 1.0 draft · As of 2026-11-12 · Not yet adopted
 
-This document binds every person and every automated tool that produces content for the channel. A companion doc with the same text lives at https://claude.ai/artifact/Lkj6vdjWveH6Cpam8nLntY. If the two differ, this README is authoritative once adopted.
+This document binds every person and every automated tool that produces content for দাবি ও দলিল (Dabi o Dolil). A companion doc with the same text lives at https://claude.ai/artifact/Lkj6vdjWveH6Cpam8nLntY. If the two differ, this README is authoritative once adopted.
 
 **Caveat.** No charter can make a channel immune under a law that has an "unverified information" offence with no public-interest defence. This constitution removes every avoidable trigger and documents a process that can be shown in defence. It is not legal advice and must be reviewed by a Bangladeshi advocate before adoption.
 
