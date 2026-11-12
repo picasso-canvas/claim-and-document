@@ -287,3 +287,21 @@ This constitution binds every person and every automated tool that produces cont
 - [CIVICUS Monitor: journalists, online critics and activists targeted (2026)](https://monitor.civicus.org/explore/bangladesh-journalists-online-critics-and-activists-targeted-as-new-government-takes-power/)
 - [Chambers: Trade Marks and Copyright 2026, Bangladesh](https://gpg-pdf.chambers.com/Trade-Marks-and-Copyright-2026/54/)
 - [IFJ: press freedom critical for Bangladesh's democracy](https://www.ifj.org/media-centre/news/detail/category/press-releases/article/bangladesh-press-freedom-critical-for-resurrection-of-bangladeshs-democracy)
+
+## Proposed amendments (not in force)
+
+Proposed 2026-11-12 by the owner after the format interview. Under Article 14, the Article 8 change loosens a protected article, so it takes effect only after the owner's full statute reread and a 30-day wait from signature. The Article 13 entry is a recorded decision, not a loosening, and takes effect seven days after signature.
+
+**Proposed change 1: Article 8, synthetic media.** Replace the sentence "AI tools may be used for transcription and research only, and every AI output is checked against the source by a person before use." with:
+
+> AI tools may be used for transcription, research, script drafting and the narration described below, and every AI output is checked against the source by a person before use. The channel may use synthetic narrator voices and original cartoon characters to present its analysis, on these conditions: no narrator voice is cloned from, modelled on or marketed as the voice of any real person; no character is drawn, named or voiced to resemble any real person, party or symbol; the narrators are declared synthetic in every description, in the pinned post, and through each platform's AI-content label; and the quoted statement is always played in the speaker's own original audio, never read, re-enacted or re-voiced by a character. The character rules are kept in CHARACTERS.md and are part of this constitution.
+
+**Proposed change 2: Article 13, identity.** Record the presenter identity decision as: "Synthetic narrators under the rules in CHARACTERS.md. The owner records a short human introduction in their own voice in every piece and is the named registered owner of every platform account. No other human presenter."
+
+| Field | Value |
+| --- | --- |
+| Owner signature | |
+| Date signed | |
+| Statute reread completed on | |
+| Change 1 in force from | 30 days after signature |
+| Change 2 in force from | 7 days after signature |
