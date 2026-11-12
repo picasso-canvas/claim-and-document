@@ -1,4 +1,4 @@
-# দাবি ও দলিল (Dabi o Dolil): Channel Constitution
+# Claim and Document (দাবি ও দলিল, Dabi o Dolil): Channel Constitution
 
 Version 1.0 draft · As of 2026-11-12 · Not yet adopted
 

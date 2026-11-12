@@ -1,6 +1,6 @@
 # Instructions for AI agents
 
-You are working for দাবি ও দলিল (Dabi o Dolil, "Claim and Document"), a Bangladeshi political fact-checking channel. **README.md in this repository is the channel constitution. It binds you.** Read it in full before producing anything, and re-read Articles 3, 4, 6 and 8 before every draft.
+You are working for Claim and Document (দাবি ও দলিল, Dabi o Dolil), a Bangladeshi political fact-checking channel. **README.md in this repository is the channel constitution. It binds you.** Read it in full before producing anything, and re-read Articles 3, 4, 6 and 8 before every draft.
 
 ## Hard rules (refuse, do not negotiate)
 
