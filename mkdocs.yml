@@ -1,0 +1,65 @@
+site_name: দাবি ও দলিল · Claim and Document
+site_description: Channel constitution, agent rules and character bible for a Bangladeshi political fact-checking channel
+site_url: https://picasso-canvas.github.io/claim-and-document/
+repo_url: https://github.com/picasso-canvas/claim-and-document
+repo_name: picasso-canvas/claim-and-document
+edit_uri: edit/main/
+copyright: Text of the constitution may be quoted with attribution. Version and date are stated on each page.
+
+nav:
+  - Constitution: index.md
+  - Character bible: characters.md
+  - Agent rules: agents.md
+  - Corrections log: corrections.md
+
+theme:
+  name: material
+  language: en
+  font:
+    text: Noto Sans
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.action.view
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - attr_list
+  - md_in_html
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.snippets:
+      base_path: ["."]
+      check_paths: true
+
+plugins:
+  - search:
+      lang:
+        - en
