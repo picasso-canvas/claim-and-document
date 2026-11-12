@@ -1,0 +1,16 @@
+title: দাবি ও দলিল · Claim and Document
+description: Channel constitution, agent rules and platform profiles for a Bangladeshi political fact-checking channel
+lang: bn
+theme: jekyll-theme-cayman
+show_downloads: false
+plugins:
+  - jekyll-readme-index
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+readme_index:
+  with_frontmatter: true
+exclude:
+  - CLAUDE.md
+  - .cursorrules
+  - .github
