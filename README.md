@@ -4,7 +4,7 @@ Version 1.0 draft · As of 2026-11-12 · Not yet adopted
 
 This document binds every person and every automated tool that produces content for দাবি ও দলিল (Dabi o Dolil). A companion doc with the same text lives at https://claude.ai/artifact/Lkj6vdjWveH6Cpam8nLntY. If the two differ, this README is authoritative once adopted.
 
-**Caveat.** No charter can make a channel immune under a law that has an "unverified information" offence with no public-interest defence. This constitution removes every avoidable trigger and documents a process that can be shown in defence. It is not legal advice and must be reviewed by a Bangladeshi advocate before adoption.
+**Caveat.** No charter can make a channel immune under a law that has an "unverified information" offence with no public-interest defence. This constitution removes every avoidable trigger and documents a process that can be shown in defence. It is not legal advice. The channel operates without a retained advocate by the owner's decision, so the owner carries the compliance review personally under Article 10 and keeps Article 2 current by reading the statutes themselves.
 
 ---
 
@@ -39,7 +39,7 @@ The channel operates under Article 39 of the Constitution of Bangladesh, which g
 
 The cyber law as amended has no explicit public-interest or fair-comment defence. The channel therefore does not rely on any defence at trial. It relies on never producing the kind of content that gets charged: no claim without a documented source, and no statement about a person that is not a statement about a quoted public utterance.
 
-This constitution is reviewed by a Bangladeshi advocate with cyber-law experience before launch and after every amendment to the cyber law. The advocate's name and the date of the last review are recorded in Article 14.
+The owner reads the current text of every law in the table before launch and within 14 days of any amendment to it, and records the date in Article 14. The channel does not retain an advocate. The compensating controls are the stricter self-review in Article 10, the 24-hour cold read, and the emergency contact in Article 12.
 
 ## 3. Editorial principles
 
@@ -100,7 +100,7 @@ A statement may be called inaccurate only when the verification file for the pie
 - [ ] The specific claim being tested, written as one sentence
 - [ ] Each source: title, issuing body, date, page or section, URL, and a saved PDF or screenshot with capture date
 - [ ] The finding in one sentence, using Article 4 language
-- [ ] Name and date of the researcher, the second checker and the legal reviewer
+- [ ] Name and date of the researcher, the second checker and the compliance reviewer
 - [ ] Any point of doubt and how it was resolved or cut
 
 **Numbers.** A figure is quoted with its unit, period and source definition. Where the speaker's figure and the document's figure measure different things (fiscal year versus calendar year, taka versus dollars, gross versus net), the piece says so and does not call the statement inaccurate on that difference alone.
@@ -130,7 +130,7 @@ The channel covers statements from every party and office with the same test. Ba
 - **Quarterly audit.** Every quarter the channel publishes a count of pieces by party and office of the speaker, and the share found accurate, inaccurate and unverifiable. If one party exceeds half the pieces in a quarter, the next quarter's selection corrects it.
 - **Accuracy gets covered too.** When a checked statement proves accurate, that piece is published with equal prominence. A channel that only publishes failures is a campaign, not a check.
 - **Government and opposition alike.** The ruling party, the opposition, parties outside parliament, and figures in exile are all within scope. Office-holders receive more scrutiny than others only because they make more checkable claims about public money and policy.
-- **Election periods.** From the announcement of an election schedule to the declaration of results, the channel follows the Election Commission's code of conduct for media, publishes nothing new in the 48 hours before polling, and applies a second legal review to every piece about a candidate.
+- **Election periods.** From the announcement of an election schedule to the declaration of results, the channel follows the Election Commission's code of conduct for media, publishes nothing new in the 48 hours before polling, and applies a second compliance review, 24 hours after the first, to every piece about a candidate.
 - **No endorsements.** The channel, its presenters and its accounts never state a voting preference, share campaign material, accept party funding or advertising, or appear at party events.
 - **Declared interests.** Every team member declares party membership, past employment with a party or government, and family ties to candidates. A member with a declared interest does not work on pieces about that party.
 
@@ -163,7 +163,7 @@ The channel uses third-party footage under the criticism, review and reporting e
 - **Preferred sources, in order.** Sangsad Television and parliamentary archives; Bangladesh Television and Bangladesh Betar; the speaker's own official page or party channel; press conferences recorded by multiple outlets; private broadcasters last.
 - **Short excerpts only.** No single clip exceeds 45 seconds, no piece uses more than 25 percent of its running time as third-party footage, and every clip is followed by original analysis before the next clip.
 - **Attribution on screen.** Every clip shows the source outlet or page, the programme or event, and the date, for the full duration of the clip.
-- **Private broadcaster footage.** Where a private channel's recording is the only one available, the channel seeks written permission first, and otherwise uses the shortest possible excerpt. A Content ID claim on YouTube is disputed under the criticism exception only after the legal reviewer confirms the piece meets every rule above.
+- **Private broadcaster footage.** Where a private channel's recording is the only one available, the channel seeks written permission first, and otherwise uses the shortest possible excerpt. A Content ID claim on YouTube is disputed under the criticism exception only after the compliance reviewer confirms the piece meets every rule above.
 - **No full re-uploads.** The channel never posts a speech, interview or broadcast in full or in substantial part, even with commentary.
 - **Own material.** Presenter segments, graphics, document displays and voice-over are original and form the majority of every piece, which also satisfies the platforms' reused-content policies.
 - **Music and images.** Only licensed or original music and graphics. No stock images of any real person outside the quoted footage.
@@ -171,7 +171,7 @@ The channel uses third-party footage under the criticism, review and reporting e
 
 ## 10. Pre-publication checklist
 
-No piece is published until every box is ticked by the named person. The researcher cannot be the checker; the checker cannot be the legal reviewer. For a one-person channel, the legal reviewer is the retained advocate and the checker is a trusted second reader who has signed this constitution.
+No piece is published until every box is ticked by the named person. The researcher cannot be the checker. The compliance review is done by the owner against the current statute text, no sooner than 24 hours after the draft is finished, so it is read cold. For a one-person channel, the checker is a trusted second reader who has signed this constitution, and the owner does the compliance review on the following day.
 
 **Researcher**
 
@@ -187,8 +187,10 @@ No piece is published until every box is ticked by the named person. The researc
 - [ ] Each fallacy label meets all four conditions of Article 6
 - [ ] Speaker's own figure and the document's figure measure the same thing
 
-**Legal reviewer**
+**Compliance reviewer (owner)**
 
+- [ ] At least 24 hours have passed since the draft was finished
+- [ ] Statute text in Article 2 re-read by the owner within the past 90 days
 - [ ] Piece read in full against the current text of the cyber law and the Penal Code defamation sections
 - [ ] Any sentence that could be read as a statement about a person rather than a statement is cut
 - [ ] Election-period rules applied if a schedule is in force (Article 7)
@@ -219,30 +221,30 @@ The protocol is written down because the first hours after a notice or an arrest
 
 **On receiving a legal notice, police contact or platform government-request notice**
 
-1. Do not reply, post, comment or delete anything. Forward the notice to the retained advocate within one hour.
-2. The advocate, not the channel, decides whether to respond, pause the piece or geo-restrict it. Pausing is not an admission and is the default while a notice is reviewed.
-3. Preserve the verification file for the piece and send a copy to the advocate and to the off-site backup.
-4. Inform the team by the agreed channel. Nobody speaks to press, police or the complainant without the advocate.
-5. Log the notice: date received, sender, piece concerned, action taken, date resolved.
+1. Do not reply, post, comment or delete anything for 24 hours. Panic replies, deletions and public statements are what turn a notice into a case.
+2. Pause the piece concerned on every platform. Pausing is not an admission and is the default while a notice is reviewed.
+3. Preserve the verification file for the piece and send a copy to the emergency contact and to the off-site backup.
+4. The owner reads the notice against the statute it cites and against the verification file, and decides in writing: correct, restore, or keep paused. A notice that carries a court or police case number is answered only in writing, only after that reading, and only on the facts in the verification file.
+5. Inform the team by the agreed channel. Nobody speaks to press, police or the complainant. Log the notice: date received, sender, piece concerned, action taken, date resolved.
 
 **On a platform takedown or government removal order**
 
-- Comply with the removal on the platform concerned while the advocate reviews. Do not re-upload the same piece on another platform or account.
-- Appeal through the platform's own process only on the advocate's advice.
+- Comply with the removal on the platform concerned while the owner reviews. Do not re-upload the same piece on another platform or account.
+- Appeal through the platform's own process only after the owner has re-run the Article 10 checklist on the piece and it passes.
 - The off-platform master is kept but not republished until cleared.
 
 **On the arrest or detention of a team member**
 
-- The advocate is called first, before family or colleagues are informed publicly.
-- The channel posts nothing about the arrest until the advocate approves the wording. A statement, if any, states the facts of the detention and nothing about the complaint, the complainant or the police.
+- The emergency contact is called first, before family or colleagues are informed publicly. The emergency contact holds the credentials, the bail fund and the constitution, and acts for the channel while the owner cannot.
+- The channel posts nothing about the arrest until the detained person is released or the emergency contact approves the wording. A statement, if any, states the facts of the detention and nothing about the complaint, the complainant or the police.
 - Pending pieces about the complainant's party are frozen until the matter is resolved, to avoid any appearance of retaliation.
-- The bail fund (Article 13) is released to the advocate on request.
+- The bail fund (Article 13) is released by the emergency contact.
 
 **Standing arrangements**
 
-- A retained advocate with cyber-law experience, with a signed engagement letter, a 24-hour number, and a copy of this constitution.
-- A second contact at a press-freedom organisation, with the advocate's consent to involve them.
-- Every team member carries the advocate's number and knows that the only sentence to say at a police station is that they will answer questions with their lawyer present.
+- A named emergency contact, not a lawyer, with a 24-hour number, a copy of this constitution, admin access under Article 13 and signing authority on the bail fund.
+- A contact at a press-freedom organisation that the emergency contact may call for help with a detention.
+- Every team member carries the emergency contact's number and knows that the only sentences to say at a police station are their name, that they are a journalist, and that they will answer questions in writing.
 
 ## 13. Records, retention and security
 
@@ -253,7 +255,7 @@ The verification file is the channel's evidence that every claim was checked. It
 - **Access.** Two-factor authentication on every platform account and every storage account. No shared passwords; a password manager with named access. Page and channel admin roles held by at least two people so that one arrest does not lock the channel.
 - **Devices.** Full-disk encryption on every device. Working footage and drafts are not kept on phones.
 - **Communication.** Editorial discussion happens on an end-to-end encrypted service with disappearing messages off for decisions and on for drafts. Sources and tips are never discussed on Facebook Messenger or SMS.
-- **Financial record.** A bail and legal fund equal to at least three months of operating cost is kept separately, with the advocate holding signing authority alongside the channel owner. All funding sources are recorded and published annually.
+- **Financial record.** A bail and legal fund equal to at least three months of operating cost is kept separately, with the emergency contact holding signing authority alongside the channel owner. All funding sources are recorded and published annually.
 - **Identity.** The decision whether presenters appear under their legal names is made once, before launch, recorded here, and not changed casually. Whatever the decision, the registered owner of the platform accounts is a named person who has read Article 12.
 
 ## 14. Governance and amendment
@@ -261,9 +263,9 @@ The verification file is the channel's evidence that every claim was checked. It
 This constitution binds every person and every automated tool that produces content for the channel. It is amended only by the process below, so that no deadline, no viral moment and no single person can loosen it.
 
 - **Owner.** The channel owner is responsible for compliance and signs every amendment.
-- **Amendment.** An amendment is proposed in writing, reviewed by the retained advocate, and takes effect seven days after the advocate's written approval. Articles 3, 4, 5 and 8 may be tightened by the owner alone but loosened only with the advocate's approval.
+- **Amendment.** An amendment is proposed in writing, reread by the owner against the current statute text, and takes effect seven days after the owner signs it. Articles 3, 4, 5 and 8 may be tightened at any time but loosened only after a full statute reread and a 30-day wait, so no amendment is made in the heat of a moment.
 - **Mandatory review triggers.** The constitution is reviewed within 14 days of any of: an amendment to the cyber law; a new Election Commission media code; passage of a National Media Commission law; any legal notice received by the channel; any correction that changed a finding.
-- **Annual review.** Once a year the owner, the advocate and one outside reader with no stake in the channel reread the whole text against the year's pieces and corrections.
+- **Annual review.** Once a year the owner and one outside reader with no stake in the channel reread the whole text against the year's pieces and corrections.
 - **Agents and tools.** Any AI system used for research, drafting, transcription, captioning or moderation is given this constitution as a standing instruction and is configured to refuse output that breaks Articles 3, 4, 6 or 8. Its output is a draft; a person signs every checklist item in Article 10. See AGENTS.md in this repository.
 - **Publication.** The current version is public, with its version number and date, so viewers and subjects can hold the channel to it.
 
@@ -271,8 +273,8 @@ This constitution binds every person and every automated tool that produces cont
 | --- | --- |
 | Version | 1.0 draft |
 | Adopted | not yet adopted |
-| Retained advocate | to be appointed |
-| Last legal review | none yet |
+| Emergency contact | to be named |
+| Last statute reread by owner | none yet |
 | Presenter identity decision | pending |
 
 ## Sources consulted for Article 2
