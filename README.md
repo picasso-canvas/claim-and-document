@@ -2,7 +2,7 @@
 
 Version 1.0 draft · As of 2026-11-12 · Not yet adopted
 
-This document binds every person and every automated tool that produces content for দাবি ও দলিল (Dabi o Dolil). A companion doc with the same text lives at https://claude.ai/artifact/Lkj6vdjWveH6Cpam8nLntY. If the two differ, this README is authoritative once adopted.
+This document binds every person and every automated tool that produces content for দাবি ও দলিল (Dabi o Dolil).
 
 **Caveat.** No charter can make a channel immune under a law that has an "unverified information" offence with no public-interest defence. This constitution removes every avoidable trigger and documents a process that can be shown in defence. It is not legal advice. The channel operates without a retained advocate by the owner's decision, so the owner carries the compliance review personally under Article 10 and keeps Article 2 current by reading the statutes themselves.
 
@@ -266,7 +266,7 @@ This constitution binds every person and every automated tool that produces cont
 - **Amendment.** An amendment is proposed in writing, reread by the owner against the current statute text, and takes effect seven days after the owner signs it. Articles 3, 4, 5 and 8 may be tightened at any time but loosened only after a full statute reread and a 30-day wait, so no amendment is made in the heat of a moment.
 - **Mandatory review triggers.** The constitution is reviewed within 14 days of any of: an amendment to the cyber law; a new Election Commission media code; passage of a National Media Commission law; any legal notice received by the channel; any correction that changed a finding.
 - **Annual review.** Once a year the owner and one outside reader with no stake in the channel reread the whole text against the year's pieces and corrections.
-- **Agents and tools.** Any AI system used for research, drafting, transcription, captioning or moderation is given this constitution as a standing instruction and is configured to refuse output that breaks Articles 3, 4, 6 or 8. Its output is a draft; a person signs every checklist item in Article 10. See AGENTS.md in this repository.
+- **Agents and tools.** Any AI system used for research, drafting, transcription, captioning or moderation is given this constitution as a standing instruction and is configured to refuse output that breaks Articles 3, 4, 6 or 8. Its output is a draft; a person signs every checklist item in Article 10.
 - **Publication.** The current version is public, with its version number and date, so viewers and subjects can hold the channel to it.
 
 | Field | Value |
@@ -294,9 +294,9 @@ Proposed 2026-11-12 by the owner after the format interview. Under Article 14, t
 
 **Proposed change 1: Article 8, synthetic media.** Replace the sentence "AI tools may be used for transcription and research only, and every AI output is checked against the source by a person before use." with:
 
-> AI tools may be used for transcription, research, script drafting and the narration described below, and every AI output is checked against the source by a person before use. The channel may use synthetic narrator voices and original cartoon characters to present its analysis, on these conditions: no narrator voice is cloned from, modelled on or marketed as the voice of any real person; no character is drawn, named or voiced to resemble any real person, party or symbol; the narrators are declared synthetic in every description, in the pinned post, and through each platform's AI-content label; and the quoted statement is always played in the speaker's own original audio, never read, re-enacted or re-voiced by a character. The character rules are kept in CHARACTERS.md and are part of this constitution.
+> AI tools may be used for transcription, research, script drafting and the narration described below, and every AI output is checked against the source by a person before use. The channel may use synthetic narrator voices and original cartoon characters to present its analysis, on these conditions: no narrator voice is cloned from, modelled on or marketed as the voice of any real person; no character is drawn, named or voiced to resemble any real person, party or symbol; the narrators are declared synthetic in every description, in the pinned post, and through each platform's AI-content label; and the quoted statement is always played in the speaker's own original audio, never read, re-enacted or re-voiced by a character. The character bible holds the character rules and is part of this constitution.
 
-**Proposed change 2: Article 13, identity.** Record the presenter identity decision as: "Synthetic narrators under the rules in CHARACTERS.md. The owner records a short human introduction in their own voice in every piece and is the named registered owner of every platform account. No other human presenter."
+**Proposed change 2: Article 13, identity.** Record the presenter identity decision as: "Synthetic narrators under the rules in the character bible. The owner records a short human introduction in their own voice in every piece and is the named registered owner of every platform account. No other human presenter."
 
 | Field | Value |
 | --- | --- |

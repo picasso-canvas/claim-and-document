@@ -1,1 +1,0 @@
-Read AGENTS.md and README.md before doing anything in this repository. README.md is the channel constitution and binds every agent; AGENTS.md lists the hard rules you must refuse to break and the self-check to run before returning any draft.
